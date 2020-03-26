@@ -6,7 +6,7 @@
 
 #### Usage:
 In order to use this script you have to fist download it using the following command:
-
+`wget https://github.com/juanfe9118/Scripts/blob/master/code_server/code_server.sh`
 
 After you have downloaded the script you can run it using it as follows:
 `./code_server.sh` from the directory where the file is located.
